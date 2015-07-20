@@ -1,7 +1,7 @@
 {
-  "name": "react-avatar-cropper",
-  "version": "0.0.3",
-  "repository": "https://github.com/DropsOfSerenity/react-avatar-cropper",
+  "name": "react-avatar-cropper2",
+  "version": "0.0.4",
+  "repository": "https://github.com/gufy/react-avatar-cropper",
   "description": "An avatar cropper meant to be a complete solution to avatar cropping.",
   "main": "dist/ReactAvatarCropper.min.js",
   "scripts": {
@@ -10,7 +10,7 @@
     "prepublish": "NODE_ENV=production ./node_modules/.bin/webpack --config webpack.config.production.js",
     "demo": "./node_modules/.bin/webpack --config webpack.config.demo.js"
   },
-  "author": "Justin Schiff",
+  "author": "Justin Schiff & Vojtech Kopal",
   "license": "MIT",
   "keywords": [
     "react-component",
